@@ -1,4 +1,4 @@
-![Data Analyst GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Data Analyst Meme](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW1ybzRwZ3pncGUxM3B6a2txMXFjNmY0OW9qNnZkaGxreWZ4NW45bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT9IgG50Fb7Mi0prBC/giphy.gif)
 
 # Hi 👋, I'm Madhusoodhanan
 
