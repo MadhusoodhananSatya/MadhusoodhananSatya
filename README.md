@@ -4,9 +4,7 @@
 
 🎯 **Data Enthusiast | Machine Learning Practitioner | Big Data Explorer**
 
-- 🎓 Student at **University of Salford**, passionate about data analytics, machine learning, and big data technologies.
-- 🔍 I enjoy working with **Python**, **Power BI**, and **Spark** to derive insights from complex datasets.
-- 💡 Always exploring new ways to solve data problems and create meaningful impact.
+👋 Hi there, I'm Madhusoodhanan 🎯 Data Enthusiast | Machine Learning | Big Data I'm a data-driven problem solver and a student at the University of Salford, passionate about data analytics, machine learning, and big data technologies. I enjoy working with Python, Power BI, and Spark to extract meaningful insights from complex datasets.
 
 ---
 
@@ -40,6 +38,12 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
+## 💼 My Projects:
+- 📊 **Sentiment Analysis** project for a restaurant.
+- 🤖 **Machine Learning & Data Mining** project.
+- 💼 **Master’s project** analyzing the Enron email dataset using Databricks and Spark.
+- 🏥 **Blood Bank Management System** (Undergraduate project).
+  
 ---
 🔗 Feel free to connect with me!
 
