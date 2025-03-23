@@ -43,6 +43,6 @@
 ---
 🔗 Feel free to connect with me!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com](https://www.linkedin.com/in/madhusoodhanan-satya-6a27942a2/)) 
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)]([https://github.com](https://github.com/MadhusoodhananSatya)) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/madhusoodhanan-satya-6a27942a2/)) 
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MadhusoodhananSatya)) 
 
